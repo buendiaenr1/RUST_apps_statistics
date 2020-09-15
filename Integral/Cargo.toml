@@ -1,0 +1,11 @@
+[package]
+name = "suma"
+version = "0.1.0"
+authors = ["Enrique RP Buendia Lozada"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+fasteval="0.2.4"
+
